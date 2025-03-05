@@ -142,8 +142,8 @@ body {
 
 
 .logo {
-    height: 10vh; 
-    max-width: 15vw; 
+    height: 12vh; 
+    max-width: 19vw; 
 }
 
 
@@ -771,6 +771,7 @@ footer {
 .footer-copyright p {
     margin: 0;
 }
+
 
 /* Navbar */
 
